@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=speedy155&repo=speedy155&theme=react)](https://github.com/speedy155/speedy155)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=cyberxuxy&repo=cyberxuxy&theme=react)](https://github.com/cyberxuxy/cyberxuxy)
